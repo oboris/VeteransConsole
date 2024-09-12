@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySotrs", "ConsoleApp3\ArraySotrs.csproj", "{D0700B21-4E2B-4920-8F54-2E06444BF353}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task-qbit", "task-qbit\task-qbit.csproj", "{DCE5A475-0551-4430-882C-B3A0932F6D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArray", "2dArray\2dArray.csproj", "{1EB33CC8-A742-426E-A181-51F16D8AFB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0700B21-4E2B-4920-8F54-2E06444BF353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0700B21-4E2B-4920-8F54-2E06444BF353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0700B21-4E2B-4920-8F54-2E06444BF353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0700B21-4E2B-4920-8F54-2E06444BF353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE5A475-0551-4430-882C-B3A0932F6D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE5A475-0551-4430-882C-B3A0932F6D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE5A475-0551-4430-882C-B3A0932F6D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE5A475-0551-4430-882C-B3A0932F6D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB33CC8-A742-426E-A181-51F16D8AFB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB33CC8-A742-426E-A181-51F16D8AFB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB33CC8-A742-426E-A181-51F16D8AFB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB33CC8-A742-426E-A181-51F16D8AFB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA057E9-14FD-4491-95B8-0B6448EC07FD}
+	EndGlobalSection
+EndGlobal
